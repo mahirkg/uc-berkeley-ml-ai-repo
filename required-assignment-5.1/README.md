@@ -1,11 +1,14 @@
 # Required Assignment 5.1: Will the Customer Accept the Coupon?
-The goal of this assignment was to use our learnings so far to determine the characteristics of customers who accepted driving coupons versus those who did not. I focused my independent investigation on coupons for coffee houses.
+The goal of this assignment was to use our learnings so far to determine the characteristics
+of drivers who accepted coupons versus those who did not. I focused my independent
+investigation on coupons for coffee houses, as well as on coupons accepted by driver
+over 50 years of age.
 
 ## Relevant Files
 - The Jupyter notebook used for the analysis can be found [here](assignment.ipynb).
 - The CSV file referenced by it can be found [here](data/coupons.csv).
 - The images of the figures generated as part of the analysis can be [here](images/).
-- The non-technical report can be found [here](report.pdf).
+- The non-technical report can be found [here](report.rtf).
 
 ## Summary of Findings
 Drivers are more likely to accept the coffee house coupons when:
@@ -23,7 +26,11 @@ the age of 21.
 - they have visited a coffeehouse before.
 
 Certain factors like the weather & the drivers' parental status seem to have little
-to no impact on coupon acceptance.
+to no impact on coffee house coupon acceptance.
 
-Please see the linked non-technical report for more information, along with next steps &
-recommendations.
+Drivers above the age of 50 are more likely to accept coupons for:
+- carry out & take away
+- inexpensive restaurants
+
+The linked non-technical report contains more on the above findings, including
+next steps.
